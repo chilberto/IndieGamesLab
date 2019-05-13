@@ -1,3 +1,5 @@
+Development on IndieGamesLab has ended. The project is kept here as a dev resource.
+
 # IndieGamesLab
 The IndieGamesLab (IGL) solution is a collection of projects designed to help game development teams to leverage the Azure cloud platform.  The projects in this solution make up the basis for sample projects in the [IndieGamesLab.Samples](https://github.com/spikesoftware/IndieGamesLab-Samples) repository.
 
